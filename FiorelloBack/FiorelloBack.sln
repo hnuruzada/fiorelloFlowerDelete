@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiorelloBack", "FiorelloBack.csproj", "{0C74C248-A619-4786-972B-79949E3A0191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C74C248-A619-4786-972B-79949E3A0191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C74C248-A619-4786-972B-79949E3A0191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C74C248-A619-4786-972B-79949E3A0191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C74C248-A619-4786-972B-79949E3A0191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1157F5-370B-4131-9C88-E9555CFA8542}
+	EndGlobalSection
+EndGlobal
